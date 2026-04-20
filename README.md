@@ -1,6 +1,8 @@
 # Near-Miss-Project
 This project analyzes workplace near miss incidents and forecasts trends to 2027 using SQL, Python, and Power BI. It highlights high-risk areas, incident patterns, and reporting efficiency while providing predictive insights to support proactive safety planning and decision-making.
-📊 Dashboard Insights & KPI Interpretation
+
+
+Dashboard Insights & KPI Interpretation
 
 This project includes three dashboard pages: Overview, Safety Performance, and Forecast Analysis. Each page provides key insights into near miss incidents and their future trends.
 
