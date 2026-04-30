@@ -29,7 +29,7 @@ Monthly patterns indicate peak periods
 
 
 Forecast Dashboard (Predictive Analysis)
-
+![image alt](https://github.com/DansoEm-Manuel/Near-Miss-Project/blob/main/Power%20bi%203.PNG?raw=true)
 Key KPIs
 Total Forecast (373)
 Predicted incidents for 2027, showing sustained risk levels.
