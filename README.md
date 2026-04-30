@@ -8,7 +8,7 @@ Dashboard Insights & KPI Interpretation
 This project includes three dashboard pages: Overview, Safety Performance, and Forecast Analysis. Each page provides key insights into near miss incidents and their future trends.
 
 Safety Performance Dashboard (Historical Analysis)
-
+![image alt](https://github.com/DansoEm-Manuel/Near-Miss-Project/blob/main/Power%20bi%202.PNG?raw=true)
 Key KPIs
 Total Near Misses (200)
 Total recorded incidents. Indicates overall exposure to safety risks.
