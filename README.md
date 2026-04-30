@@ -3,6 +3,7 @@ This project analyzes workplace near miss incidents and forecasts trends to 2027
 
 
 Dashboard Insights & KPI Interpretation
+![image alt](https://github.com/DansoEm-Manuel/Near-Miss-Project/blob/main/Power%20bi%201.PNG?raw=true)
 
 This project includes three dashboard pages: Overview, Safety Performance, and Forecast Analysis. Each page provides key insights into near miss incidents and their future trends.
 
